@@ -17,6 +17,10 @@ int main()
 		{
 			printf("Buzz\n");
 		}
+		else if(i%7 == 0)
+		{
+			printf("git\n");
+		}
 	}
 	
 
